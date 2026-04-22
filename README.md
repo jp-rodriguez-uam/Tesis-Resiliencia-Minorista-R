@@ -24,7 +24,7 @@
 5. [Orden de ejecución](#5-orden-de-ejecución)
 6. [Metodología paso a paso](#6-metodología-paso-a-paso)
 7. [Resultados esperados y outputs](#7-resultados-esperados-y-outputs)
-8. [Nota sobre ACS_depurada.RData](#8-nota-sobre-acs_depuradadata)
+8. [Nota sobre ACS_depurada.RData](#8-nota-sobre-acs_depuradardata)
 9. [Limitaciones para la reproducibilidad](#9-limitaciones-para-la-reproducibilidad)
 10. [Recomendaciones antes de publicar](#10-recomendaciones-antes-de-publicar)
 11. [Nota de uso académico](#11-nota-de-uso-académico)
